@@ -1,0 +1,4 @@
+architecture,mean(ms),p95(ms),p99(ms),worst(ms),compliance(%)
+edge,35.1,99.4,111.3,131.4,95.35
+cloud (c=0.2),46.9,78.2,135.9,2028.3,97.50
+hybrid (c=0.2),27.3,54.9,81.7,1004.6,99.39
